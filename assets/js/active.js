@@ -267,13 +267,17 @@
                 {
                     breakpoint: 768,
                     settings: {
-                        slidesToShow: 2
+                        slidesToShow: 2,
+                        slidesToScroll: 2
+
                     }
                 },
                 {
                     breakpoint: 401,
                     settings: {
-                        slidesToShow: 1
+                        slidesToShow: 1,
+                        slidesToScroll: 1
+
                     }
                 }
             ]
