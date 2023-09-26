@@ -254,7 +254,7 @@
         $(".brand-logo-content").slick({
             slidesToShow: 4,
             slidesToScroll: 3,
-            speed: 300,
+            speed: 100,
             arrows: false,
             autoplay: true,
             responsive: [
