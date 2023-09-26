@@ -255,6 +255,8 @@
         // Brand Logo Slider JS
         $(".brand-logo-content").slick({
             slidesToShow: 4,
+            slidesToScroll: 3,
+            speed: 300,
             arrows: false,
             autoplay: true,
             responsive: [
