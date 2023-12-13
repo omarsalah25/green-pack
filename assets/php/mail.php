@@ -20,7 +20,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "mailcheck@whizthemes.com";
+        $recipient = "GreenPack@gmail.com";
 
         // Set the email subject.
         $subject = "Businex - Mail From $first_name";
